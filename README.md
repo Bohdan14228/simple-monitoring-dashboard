@@ -2,7 +2,7 @@
 
 # 🖥️ Basic Monitoring Dashboard with Netdata
 
-This project demonstrates how to set up a **real-time system monitoring dashboard** using [Netdata](https://www.netdata.cloud/).
+This project demonstrates how to set up a **real-time system monitoring dashboard** using [Netdata](https://www.netdata.cloud/).  
 Site project [https://roadmap.sh/projects/simple-monitoring-dashboard](https://roadmap.sh/projects/simple-monitoring-dashboard)
 
 You’ll learn how to:
